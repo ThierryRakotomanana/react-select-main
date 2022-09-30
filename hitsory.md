@@ -1,5 +1,6 @@
 # Installation
 λ npm create vite
+
 Need to install the following packages:
 
 	create-vite
@@ -26,3 +27,14 @@ Scaffolding project in C:\Users\ASUS\Documents\GitHub\react-select-main\vite-pro
 	  run `npm fund` for details
 
 	found 0 vulnerabilities
+
+λ npm run dev
+
+> vite-project@0.0.0 dev
+> vite
+
+
+  VITE v3.1.4  ready in 17888 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+  ➜  Network: use --host to expose
