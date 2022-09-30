@@ -17,3 +17,12 @@ Scaffolding project in C:\Users\ASUS\Documents\GitHub\react-select-main\vite-pro
 	  npm install
 	  npm run dev
 
+
+λ npm install
+
+	added 87 packages, and audited 88 packages in 5m
+
+	8 packages are looking for funding
+	  run `npm fund` for details
+
+	found 0 vulnerabilities
